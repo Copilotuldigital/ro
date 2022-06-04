@@ -88,7 +88,7 @@
     "PasswordChange": "Schimbă parola",
     "PasswordChanged": "Parola a fost schimbată",
     "PasswordRequirements": "Trebuie să aibă cel puțin 8 caractere",
-    "PaymentAuthorization": "Autorizez {{companyName}} să trimită instrucțiuni instituției financiare care mi-a emis cardul pentru a prelua plăți din contul meu de card în conformitate cu termenii acordului meu cu Copilotul Digital",
+    "PaymentAuthorization": "Autorizez Copilotul Digital (Site web dezvoltat de Edel Projects SRL, CUI 39862257) să trimită instrucțiuni instituției financiare care mi-a emis cardul pentru a prelua plăți din contul aferent cardului meu în conformitate cu termenii și condițiile acestui site web.",
     "PaymentInformation": "Informații despre plată",
     "PaymentMethod": "Modalitate de plată",
     "Per": "per",
