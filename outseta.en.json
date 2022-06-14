@@ -1,7 +1,7 @@
 {
   "Labels": {
     "Account": "Cont",
-    "AccountActionRequired": "Uh-oh! Contul tău are restanțe sau trebuie actualizat. <strong>{{primaryContactName}}</strong> trebuie să se autentifice pentru a clarifica lucrurile, ca apoi tu să te poți autentifica din nou.",
+    "AccountActionRequired": "Ups! Contul tău are restanțe sau trebuie actualizat. <strong>{{primaryContactName}}</strong> trebuie să se autentifice pentru a clarifica lucrurile, ca apoi tu să te poți autentifica din nou.",
     "AccountCreated": "Cont creat",
     "AccountOwner": "Proprietar cont",
     "AccountUpdated": "Cont actualizat",
